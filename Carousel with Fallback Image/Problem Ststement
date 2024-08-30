@@ -1,0 +1,4 @@
+Develop an image carousel component for a web application that displays a
+series of images in a sliding format. The carousel should include functionality to navigate
+through the images and handle cases where an image is not available by showing a fallback
+image instead. This component should be built using HTML, CSS, and JavaScript.
